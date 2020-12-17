@@ -441,7 +441,7 @@ for coord in enemies_coord:
     all_sprite_list.add(enemy)
     
 #начальные координата для умного врага
-player = Player(950,550)
+player = Player(50,50)
 player.rect.x = 100
 player.rect.y = 50
 
